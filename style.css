@@ -41,6 +41,26 @@ h2 {
 	font-size: 10px;
 }
 
+.learning_style ul {
+	margin: 0 ;
+	padding: 0;
+	list-style-position: inside;
+	list-style-type: none;
+}
+
+.learning_style table, th, td {
+	border: 1px solid black;
+}
+
+.learning_style th, td {
+	padding: 5px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+
 .tab-wrapper {
 	text-align: center;
 }
